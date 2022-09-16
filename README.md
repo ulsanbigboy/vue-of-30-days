@@ -1,8 +1,12 @@
+
+# ■ 30일 완성 Vue ■
+
+
 <p align="center">
   <img src="./images/30-days-of-vue-hardcover@2x_v2.png"/>
 </p>
 <h3 align="center">
-  ✨ 30 Days of Vue ✨
+  ✨ ■ 30일 완성 Vue ■ ✨
 </h3>
 <p align="center">
   An Introduction to Vue - in 30 Bite-Size Morsels. Written by the authors of <a href="https://fullstack.io/vue">Fullstack Vue</a></a>
