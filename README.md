@@ -12,7 +12,7 @@
   An Introduction to Vue - in 30 Bite-Size Morsels. Written by the authors of <a href="https://fullstack.io/vue">Fullstack Vue</a></a>
 </p>
 <p align="center">
-  <a href="https://fullstack.io/30-days-of-vue">
+  <a href="http://monoalliance.iptime.org/file/30-days-of-vue-master.pdf">
     <img src="./images/download-button.png" width="484" height="83" />
   </a>
 </p>
@@ -58,10 +58,15 @@ yarn serve
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| <a href='https://twitter.com/djirdehh'><img src='./images/C11.jpg' width='150px;'/><h4 align='center'><a href='https://twitter.com/djirdehh'>라나</a></h4> | <a href='https://newline.co'><img src='./images/C12.jpg' width='150px;'/><h4 align='center'><a href='https://newline.co'>코난</a></h4> |
+| <a href='http://monoalliance.iptime.org'><img src='./images/C11.jpg' width='150px;'/><h4 align='center'><a href='http://monoalliance.iptime.org'>라나</a></h4> | <a href='http://monoalliance.iptime.org'><img src='./images/C12.jpg' width='150px;'/><h4 align='center'><a href='http://monoalliance.iptime.org'>코난</a></h4> |
 | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+
+<div style="clear:both"></div>
 
 # Fullstack Vue Book
 
