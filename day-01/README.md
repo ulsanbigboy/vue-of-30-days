@@ -1,5 +1,3 @@
-<h3>Day 01 - What is Vue?</h3>
+<h3>01일차 - What is Vue?</h3>
 
-Application can be run by opening the `src/index.html` file in your favourite browser.
-
-Article photo by the talented [Siska Vrijburg](https://unsplash.com/photos/AjyF1e_AGmc).
+브라우저에서 `src/index.html` 파일을 열어 애플리케이션을 실행할 수 있습니다.
