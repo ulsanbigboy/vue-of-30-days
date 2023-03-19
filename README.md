@@ -65,10 +65,10 @@ yarn serve
 
 # Fullstack Vue Book
 
-<a href="https://fullstack.io/vue">
+<a href="http://monoalliance.iptime.org/file/30-days-of-vue-master.pdf">
   <img align="right" src="images/fullstack-vue-book-cover.png" alt="Fullstack Vue Book" width="155" height="250" />
 </a>
 
-This repo was written and is maintained by the [Fullstack Vue](https://fullstack.io/vue) team. In the book we cover many more projects like this. We walk through each line of code, explain why it's there and how it works.
+This repo was written and is maintained by the [Fullstack Vue](http://monoalliance.iptime.org/file/30-days-of-vue-master.pdf) team. In the book we cover many more projects like this. We walk through each line of code, explain why it's there and how it works.
 
 _30 Days of Vue_ covers only the early basics of Vue. If you're looking to learn how to build real-world Vue apps, including libraries from the Vue ecosystem, there's no faster way than by spending a few hours with the Fullstack Vue book.
