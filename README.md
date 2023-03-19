@@ -58,7 +58,7 @@ yarn serve
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| <a href='https://twitter.com/djirdehh'><img src='https://pbs.twimg.com/profile_images/973750616487993344/fqDSTrb__400x400.jpg' width='140px;'/><h4 align='center'><a href='https://twitter.com/djirdehh'>Hassan Djirdeh</a></h4> | <a href='https://newline.co'><img src='https://avatars2.githubusercontent.com/u/4318?v=4' width='140px;'/><h4 align='center'><a href='https://newline.co'>Nate Murray</a></h4> |
+| <a href='https://twitter.com/djirdehh'><img src='./images/C11.jpg' width='150px;'/><h4 align='center'><a href='https://twitter.com/djirdehh'>Hassan Djirdeh</a></h4> | <a href='https://newline.co'><img src='./images/C12.jpg' width='150px;'/><h4 align='center'><a href='https://newline.co'>Nate Murray</a></h4> |
 | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
