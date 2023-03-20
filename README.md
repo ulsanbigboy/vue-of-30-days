@@ -1,6 +1,4 @@
-
-# ■ 30일 완성 Vue ■
-
+# 🚀 ■ 30일 완성 Vue ■
 
 <p align="center">
   <img src="./images/30-days-of-vue-hardcover@2x_v2.png"/>
@@ -17,13 +15,11 @@
   </a>
 </p>
 
-# 🚀 Introduction
+# 🚀 소개
 
-Over the next 30 days, we'll walk through everything you need to know to work with Vue. From the very beginning through topics like the Vue Instance, Components, and even Testing.
+앞으로 30일 동안 React로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 [앱의 테스트 및 배포](http://http://monoalliance.iptime.org/)까지.
 
-This repository contains the entire source and content for the article series of [30 Days of Vue](https://www.fullstack.io/30-days-of-vue) hosted by the [Fullstack Vue](https://fullstack.io/vue) team.
-
-## 👀 What's inside?
+## 👀 내용
 
 <!-- prettier-ignore -->
 |  <a align='center' href='./day-01'><img src='./day-01/public/article-image.jpg' width='140px;' /></a><h4 align='center'><a href='./day-01'>What is Vue?</a><h4> | <a href='./day-02'><img src='./day-02/public/article-image.jpg' width='140px;' /></a><h4 align='center'><a href='./day-02'>Data</a><h4> | <a href='./day-03'><img src='./day-03/public/article-image.jpg' width='140px;' /></a><h4 align='center'><a href='./day-03'>Data Driven Apps</a><h4> | <a href='./day-04'><img src='./day-04/public/article-image.jpg' width='140px;' /></a><h4 align='center'><a href='./day-04'>Vue Directives</a><h4> | <a href='./day-05'><img src='./day-05/public/article-image.jpg' width='140px;' /></a><h4 align='center'><a href='./day-05'>List Rendering</a><h4>  |
