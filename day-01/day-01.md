@@ -2,6 +2,7 @@
 
 > Over the next 30 days, we’re going to walk through everything you need to know to get started with the Vue framework. From the **very beginning** through topics like the **Vue Instance**, **Components**, and even **Testing**.
 
+el(엘리먼트), data(데이터)로 생성자를 구성한다.
 Each day in our 30-day adventure will build upon the previous day's materials which will give us a good introduction to various terms, concepts, and underpinnings of the Vue framework.
 
 This series is mainly targeted to readers that have no prior Vue knowledge and have a little or some experience with JavaScript. Though this course has been prepared for you to cover the material linearly from article-to-article, you are more than welcome to hop around in the course if you feel you’ve already grasped certain concepts.

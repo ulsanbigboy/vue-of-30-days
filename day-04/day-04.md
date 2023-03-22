@@ -2,6 +2,7 @@
 
 > The last article was a little heavy on discussion. In today's article, we’ll dive into more code examples by addressing some important native Vue **directives**.
 
+v-bind, v-if, v-on, v-show 사용 차이점 숙지하시오.
 A Vue directive is essentially a special type of command that can be added to HTML content and often appears as a prefixed HTML attribute. We’ll first revisit the **v-on** directive since we’ve already used it in one of the earlier articles.
 
 ## Event Handling with v-on

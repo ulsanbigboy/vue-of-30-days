@@ -1,8 +1,8 @@
 new Vue({
   el: '#app',
   data: {
-    greeting: 'Hello World!',
-    user: 'Hassan Djirdeh',
-    city: 'Toronto'
+    greeting: '안녕하시오!',
+    user: 'UBB',
+    city: '구로'
   }
 });

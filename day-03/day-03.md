@@ -3,6 +3,8 @@
 > In yesterday’s article, we’ve come to understand how data behaves reactively in Vue. Today, we’re going to spend a little more time discussing this behavior since it plays an especially important role in how we build applications in Vue.
 
 ## Reactive Data
+바닐라 자바스크립트(Vanilla JS)로 02일차 구현하기.
+바닐라 자바스크립트(Vanilla JS)란 프레임워크 또는 라이브러리가 적용되지 않은 순수한 자바스크립트를 뜻한다.뜻에서 유추할 수 있듯, 바닐라는 콩이라는 뜻으로 "핵심, 근본이 되는" 이라는 의미를 비유적으로 표현할 수 있다.그러므로 바닐라 자바스크립트는 핵심이 되는 아무것도 포함되지 않은 순수 자바스크립트를 함축적으로 표현하는 것이다.
 
 Data in Vue is treated as reactive since modifying data often directly causes the view to update. For every key-value pair we declare in the `data` property of an instance, the Vue library creates _getters_ and _setters_ pertaining to that property. These setters and getters work _under the hood_ to track the data properties and cause the template to re-render when a change has been made.
 

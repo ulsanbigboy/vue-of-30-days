@@ -1,15 +1,15 @@
 new Vue({
   el: '#app',
   data: {
-    greeting: 'Hello World!',
-    user: 'Hassan Djirdeh',
-    city: 'Toronto'
+    greeting: '안녕하시오!',
+    user: 'UBB',
+    city: '구로'
   },
   methods: {
     changeGreeting() {
-      this.greeting = this.greeting === 'Hello World!' ?
-       'What is up!' :
-       'Hello World!';
+      this.greeting = this.greeting === '안녕하시오!' ?
+       '반갑소.' :
+       '안녕하시오!';
     }
   }
 });

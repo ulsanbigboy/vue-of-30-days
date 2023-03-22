@@ -8,6 +8,7 @@ coverImageBackgroundPosition: '50% 87%;'
 
 ## The Vue Instance
 
+el(엘리먼트), data(데이터), methods(메소드)로 생성자를 구성할수도 있다.
 To reiterate what we’ve learned, the Vue instance is the starting point of Vue applications and contains a data property that allows us to bind data from our instance and on to the template. In the last article, we bound the value of a `greeting` data property on to the text content of an `<h2>` tag. Let’s revisit that example and introduce a few more data properties:
 
 ```javascript
