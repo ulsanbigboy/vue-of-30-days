@@ -1,8 +1,5 @@
-<h3>Day 05 - List Rendering with v-for</h3>
+<h3>■ 05일차 - List Rendering with v-for</h3>
 
-Applications can be run by opening the `src/index.html` files in your favourite browser.
-
-Article photo by the talented [Saad Chaudhry](https://unsplash.com/photos/bAXqzTJ_OdQ)
-
+브라우저에서 `src/index.html` 파일로 결과 확인.
 
 v-for, v-for-no-key, v-for-with-key 3가지 차이점을 숙지 하시오.
