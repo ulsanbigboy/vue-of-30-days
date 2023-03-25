@@ -1,4 +1,4 @@
-<h3>Day 20 - Simple Global Store</h3>
+<h3>■ 20일차 - - Simple Global Store</h3>
 
 Applications can be run with the following steps:
 

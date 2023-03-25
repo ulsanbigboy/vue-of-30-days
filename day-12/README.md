@@ -1,4 +1,4 @@
-<h3>Day 12 - Vue Components (Props)</h3>
+<h3>■ 12일차 - Vue Components (Props)</h3>
 
 Applications can be run by opening the `src/index.html` files in your favourite browser.
 

@@ -1,4 +1,4 @@
-<h3>Day 12 - Vue Components (Custom Events)</h3>
+<h3>■ 13일차 - Vue Components (Custom Events)</h3>
 
 Application can be run by opening the `src/index.html` file in your favourite browser.
 

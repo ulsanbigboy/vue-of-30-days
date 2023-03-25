@@ -1,4 +1,4 @@
-<h3>Day 15 - Vue Components (Template Definitions)</h3>
+<h3>■ 15일차 - Vue Components (Template Definitions)</h3>
 
 Applications can be run by opening the `src/index.html` files in your favourite browser.
 

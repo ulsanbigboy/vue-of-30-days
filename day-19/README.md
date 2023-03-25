@@ -1,6 +1,6 @@
-<h3>Day 19 - Custom Events and the EventBus</h3>
+<h3>■ 19일차 - Custom Events and the EventBus</h3>
 
-Applications can be run with the following steps:
+하단 명령으로 결과를 확인 :
 
 ```bash
 # install the dependencies

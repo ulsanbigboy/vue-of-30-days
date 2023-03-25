@@ -1,4 +1,4 @@
-<h3>Day 11 - Vue Components (Global Components)</h3>
+<h3>■ 11일차 - Vue Components (Global Components)</h3>
 
 Application can be run by opening the `src/index.html` file in your favourite browser.
 

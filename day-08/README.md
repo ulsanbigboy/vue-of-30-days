@@ -1,4 +1,4 @@
-<h3>Day 08 - Methods and Computed Properties</h3>
+<h3>■ 08일차 - Methods and Computed Properties</h3>
 
 Applications can be run by opening the `src/index.html` files in your favourite browser.
 

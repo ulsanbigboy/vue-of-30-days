@@ -1,4 +1,4 @@
-<h3>Day 09 - Watchers</h3>
+<h3>■ 09일차 - Watchers</h3>
 
 Applications can be run by opening the `src/index.html` files in your favourite browser.
 
