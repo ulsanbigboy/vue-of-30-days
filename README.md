@@ -10,7 +10,7 @@
   An Introduction to Vue - in 30 Bite-Size Morsels. Written by the authors of <a href="https://fullstack.io/vue">Fullstack Vue</a></a>
 </p>
 <p align="center">
-  <a href="./images/30-days-of-vue-master.pdf">
+  <a href="http://ubb.iptime.org/file/30-days-of-vue-master.pdf">
     <img src="./images/download-button.png" width="484" height="83" />
   </a>
 </p>
