@@ -1,8 +1,10 @@
 # Introduction
 
-Hello!
+안녕하세요!
 
-Welcome to __Fullstack's 30 Days of Vue__ - an introduction to the Vue framework in 30 bite-sized morsels.
+[__Fullstack's 30 Days of Vue__]에 오신 것을 환영합니다. - Vue 프레임워크를 30개의 짧은 글로 소개하는 강좌입니다.
+
+
 
 <p align="center">
   <img src="./images/30-days-of-vue-hardcover.png" />
