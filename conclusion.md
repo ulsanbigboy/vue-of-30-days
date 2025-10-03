@@ -16,7 +16,7 @@ Vue 30일 체험을 즐겁게 마치셨고, 저희와 함께 Vue를 더 깊이 �
 - Advanced routing with dynamic route matching, navigation guards, and authenticated routes.
 - An in-depth review of unit testing which involve testing components in a Vue Router and Vuex integrated setting.
 - Forms forms forms! We cover form validations, from basic form inputs through validating and integrating with Vuex.
-- For the full package - access to a series of videos, almost 2hrs in length, to set up, build, and deploy an __entire Vue.js application__ from scratch - [check out the app here](https://www.simplecoincap.com/)!
-- And much much more.
+- 전체 패키지에 대해 알아보려면 [__entire Vue.js application__] 을 처음부터 설정, 빌드, 배포하는 방법에 대한 약 2시간 분량의 비디오 시리즈에 액세스하세요. [여기에서 앱을 확인하세요](https://www.simplecoincap.com/)!
 
-All the above are all done within the context of building __much larger applications__ as well. Check out the book page at [www.fullstack.io/vue](https://www.fullstack.io/vue) for all the juicy details!
+
+위의 모든 내용은 훨씬 더 큰 애플리케이션[__much larger applications__]을 구축하는 맥락에서 수행됩니다. 자세한 내용은 [www.fullstack.io/vue](https://www.fullstack.io/vue)의 책 페이지를 참조하세요!

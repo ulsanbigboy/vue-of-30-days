@@ -19,4 +19,4 @@ In 30 Days of Vue, we'll be walking through some of the common bells and whistle
 I really hope you enjoy going through this material as much as I enjoyed compiling it. I'll be doing my best to keeping this resource up to date so if you have any questions, feedback, and/or would like to contribute - you're always welcome to reach out through the [Github Repo](https://github.com/fullstackio/30-days-of-vue). You can always drop us an email at [us@fullstack.io](us@fullstack.io) or reach out to me on Twitter - [@djirdehh](https://twitter.com/djirdehh).
 
 Cheers!
-Hassan Djirdeh
+Ulsan BogBoy
