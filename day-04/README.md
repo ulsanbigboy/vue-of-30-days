@@ -1,4 +1,4 @@
-<h3>■ 04일차 - Vue Directives</h3>
+<h3>■ 04일차 - Vue 지시어 [Directives]</h3>
 
 브라우저에서 `src/index.html` 파일로 결과 확인.
 

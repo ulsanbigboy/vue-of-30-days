@@ -1,4 +1,4 @@
-<h3>■ 05일차 - List Rendering with v-for</h3>
+<h3>■ 05일차 - 리스트를 위한 v-for [List Rendering with v-for]</h3>
 
 브라우저에서 `src/index.html` 파일로 결과 확인.
 
