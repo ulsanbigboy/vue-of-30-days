@@ -9,6 +9,9 @@ el(엘리먼트), data(데이터), methods(메소드)로 생성자를 구성할�
 
 
 <p align="center">
-  <img src="./public/assets/first_app.png"/>
+  <img src="./public/assets/simple_binding.png"/>
 </p>
 
+<p align="center">
+  <img src="./public/assets/simple_data_change.png"/>
+</p>
