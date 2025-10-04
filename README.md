@@ -17,7 +17,7 @@
 
 # 🚀 소개
 
-앞으로 30일 동안 React로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 [앱의 테스트 및 배포](http://http://monoalliance.iptime.org/)까지.
+앞으로 30일 동안 Vue로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 [앱의 테스트 및 배포](http://http://monoalliance.iptime.org/)까지.
 
 ## 👀 내용
 
