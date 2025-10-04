@@ -3,3 +3,7 @@
 Application can be run by opening the `src/index.html` file in your favourite browser.
 
 Article photo by the talented [Liz Weddon](https://unsplash.com/photos/Uncdy8uz1lI).
+
+<p align="center">
+  <img src="./public/assets/components-unique-data-example.png"/>
+</p>
