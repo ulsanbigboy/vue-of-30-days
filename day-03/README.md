@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./public/assets/simple_data_change"/>
+  <img src="./public/assets/simple_data_change.png"/>
 </p>
 
 
